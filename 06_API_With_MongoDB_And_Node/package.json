@@ -1,0 +1,15 @@
+{
+  "name": "06_api_with_mongodb_and_node",
+  "version": "1.0.0",
+  "description": "Creating API in nodeJS with MOngodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0"
+  }
+}

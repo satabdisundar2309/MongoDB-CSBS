@@ -1,0 +1,15 @@
+{
+  "name": "09_api_with_mongoose_in_nodejs",
+  "version": "1.0.0",
+  "description": "APIs using mongoose in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3"
+  }
+}

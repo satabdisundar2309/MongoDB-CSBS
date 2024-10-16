@@ -1,0 +1,14 @@
+{
+  "name": "07_mongoose_with_nodejs",
+  "version": "1.0.0",
+  "description": "Mongoose package in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.3"
+  }
+}

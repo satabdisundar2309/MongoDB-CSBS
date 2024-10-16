@@ -1,0 +1,14 @@
+{
+  "name": "04_updating_data_in_mongodb_using_node",
+  "version": "1.0.0",
+  "description": "Updating data in databse using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}

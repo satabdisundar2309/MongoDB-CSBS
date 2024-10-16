@@ -1,0 +1,14 @@
+{
+  "name": "05_deleting_data_from_database_in_node",
+  "version": "1.0.0",
+  "description": "Deleting data from mongoDB using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satabdisundar Behera",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
